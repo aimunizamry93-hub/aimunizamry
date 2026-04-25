@@ -1,13 +1,10 @@
 # Hello, I'm Aimuni Zamry
 <a href="https://www.linkedin.com/in/aimunizamry/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## About Me
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I have 2 years of experience in IT Support, specializing in troubleshooting, system maintenance, and user support.  
+Currently, I am upskilling in Cloud and Networking, focusing on hands-on projects using AWS and practical labs to strengthen my technical skills. I am actively building real-world projects to transition into a Cloud or IT Support Engineer role.
 
 
 ## Projects
@@ -31,29 +28,30 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+<a href="https://www.credly.com/badges/341c1fa8-5128-4455-8ec0-efdd7456d9b8/public_url" target="_blank" title="CompTIA Network+ Certification">
+  <img src="https://img.shields.io/badge/-Network%2B-E60000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://www.credly.com/badges/def92ccf-c9fe-49d4-8d40-a2cb10e8e79b/linked_in_profile" target="_blank" title="CompTIA Cloud+ Certification">
+  <img src="https://img.shields.io/badge/-Cloud%2B-E60000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://www.credly.com/badges/8b74237d-d88d-4e2f-9f9a-0b3b46bb8336/linked_in_profile" target="_blank" title="CompTIA CCAP Certification">
+  <img src="https://img.shields.io/badge/-Security%2B-E60000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
 </div>
 
 ## Projects
 - Detection Lab
+
+- https://learn.nextwork.org/portfolio
 - SOC Automation Project
